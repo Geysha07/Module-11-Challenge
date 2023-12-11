@@ -1,3 +1,4 @@
-# Unit 11 Homework: Mission to Mars
+# Module 11 Challenge: Mission to Mars
 
-The homework instructions and requirements are located in Canvas (or in the 08-Canvas folder for those cohorts not on Canvas).
+
+In this challenge, we used automated browsing with Splinter and HTML parsing with Beautiful Soup to scrape data from 2 websites. In the first part, we scraped titles and preview text from a Mars news article website. In the second part of the assignment, we scraped data from a table on another website. Then, we assembled the data into a DataFrame in order to analyze and create bar charts. Based on the final chart created, which shows the daily minimum temperature for Mars, we can conclude that there are   about 700 Earth days in a Martian year. I calculated the difference between the 2 highest peaks, 1600-900, which gives me 700.
